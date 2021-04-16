@@ -12,10 +12,4 @@ public class Edificio {
 		return 		SuperficieEdificio;
 	}
 
-	public void setSuperficie(double superficie) {
-		SuperficieEdificio = superficie;
-	}
-	
-	
-
 }
