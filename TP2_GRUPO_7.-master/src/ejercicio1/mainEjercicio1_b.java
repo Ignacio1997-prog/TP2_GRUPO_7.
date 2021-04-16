@@ -30,9 +30,9 @@ public class mainEjercicio1_b {
 		Profesor profeB = new Profesor(1001,"Guido",25,"Prof. Matematica",20);
 		if(profeA.equals(profeB)) {
 			System.out.println("Es el mismo profesor.");
-		}else System.out.println("No son la misma profesor.");
-
-		HashCode<Profesor> listP = new HashCode<Profesor>();
+		}else System.out.println("No es el mismo profesor.");
+		
+		
 		
 	}
 
